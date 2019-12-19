@@ -15,6 +15,9 @@ class Program
          Console.WriteLine("Hector");
          Console.WriteLine("Hector");
          */
+
+        //Control K +Control C Para Comentar
+        //Control K +Control U Para Descomentar
     }
 }
 
