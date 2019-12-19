@@ -53,6 +53,18 @@ class Program
 
         //Información adicional invetigar el rango de valores 
 
+
+        Console.WriteLine(count);
+        Console.WriteLine(wait);
+        Console.WriteLine(away);
+        Console.WriteLine(trouble);
+        Console.WriteLine(coin);
+        Console.WriteLine(vest);
+        Console.WriteLine(grill);
+        Console.WriteLine(teeth);
+
+        Console.ReadLine();
+
     }
 }
 
