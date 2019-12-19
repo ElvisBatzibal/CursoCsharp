@@ -67,7 +67,7 @@ class Program
 
 
         //Rango de valores maximos o minimos
-        int entero = 2147483648;
+        int entero = 2147483647;
         Console.WriteLine(entero);
 
         long entero2 = 2147483648;
