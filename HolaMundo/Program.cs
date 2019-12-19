@@ -65,6 +65,10 @@ class Program
 
         Console.ReadLine();
 
+
+        //Rango de valores
+        int entero = -2147483648;
+        Console.WriteLine(entero);
     }
 }
 
