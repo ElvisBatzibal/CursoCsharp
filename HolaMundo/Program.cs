@@ -67,7 +67,7 @@ class Program
 
 
         //Rango de valores
-        int entero = -2147483648;
+        int entero = -2147483649;
         Console.WriteLine(entero);
     }
 }
