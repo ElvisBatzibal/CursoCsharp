@@ -66,9 +66,16 @@ class Program
         Console.ReadLine();
 
 
-        //Rango de valores
-        int entero = -2147483649;
+        //Rango de valores maximos o minimos
+        int entero = 2147483648;
         Console.WriteLine(entero);
+
+        long entero2 = 2147483648;
+        Console.WriteLine(entero2);
+
+        Console.ReadLine();
+
+
     }
 }
 
